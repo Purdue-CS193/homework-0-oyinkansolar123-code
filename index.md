@@ -1,3 +1,13 @@
+
+# Oyinkansola Adeyemi's First CS193
+
+
+- I get to learn to code
+- There is a chance for connections with others
+- I am setting up my future
+- Only one class weekly
+- Large group of people
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
